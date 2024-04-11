@@ -1,8 +1,7 @@
 {
-  "name": "andromeda-light-nextjs",
+  "name": "superlaw-markeing-website",
   "description": "",
   "version": "1.0.0",
-  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
